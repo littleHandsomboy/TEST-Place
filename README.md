@@ -92,3 +92,4 @@ classDiagram
     TrafficDataAnalyzer --* ViolationDetector : provides data for
     MaintenanceWorker --* VehicleMonitor : monitors
     VehicleMonitor --1 FaultResponseSystem : initiates response for
+```
